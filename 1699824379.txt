@@ -1,0 +1,5 @@
+Allow
+Crawl-delay: 
+Sitemap: https://movieschill.me/home.html
+User-agent: *
+Allow :/
